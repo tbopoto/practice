@@ -1,4 +1,5 @@
-# practice
+#instagram clone
+
 git remote add origin https://github.com/tbopoto/practice.git
 git branch -M main
 git push -u origin main
